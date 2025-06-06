@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🏡 House Price Prediction App
 
 This is a simple machine learning web app built using Streamlit that predicts California house prices based on input features.
@@ -42,4 +42,4 @@ This is a simple machine learning web app built using Streamlit that predicts Ca
 =======
 # House-Price-Predictor
  A machine learning model to predict house prices
->>>>>>> 1351875aa613903c05e1a9e6789fa3eeac2a4508
+
